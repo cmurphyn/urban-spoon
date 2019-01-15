@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../conversation-service-client" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nexmo-common/nexmo-consul" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nexmo-java" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nexmo-java-quickstart" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-java-starter-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vapi" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vapi/vapi-service" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="63" />
+    <option name="y" value="463" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
